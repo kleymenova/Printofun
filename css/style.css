@@ -1,0 +1,177 @@
+body {
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+
+    h1 {
+    font-size: 34px;
+    font-family: "Apple SD Gothic Neo";
+    color: #fff;
+    font-weight: 100;
+    }
+
+    h3 {
+    font-size: 13px;
+    color: #9caee2;
+    font-weight: 100;
+    line-height: 19px;
+    }
+
+    .header {
+    height: 80px;
+    }
+
+        .header__item_logo {
+        padding-left: 159px;
+        padding-top: 17px;
+        }
+
+        .header__item_location {
+        padding-top: 27px;
+        padding-left: 28px;
+        height: 56px;
+        background-image: url(../img/ico.png) ;
+        background-repeat: no-repeat;
+        background-position: 0 26px;
+        -webkit-background-size: 28px;
+        background-size: 22px;
+        margin-left: 32px;
+        }
+
+        .location {
+        height: 20px;
+        width: 70px;
+        background-image: url(../img/ico.png);
+        background-repeat: no-repeat;
+        background-position: 56px -37px;
+        background-color: #fff;
+        }
+
+        .location__menu {
+        border-color: white;
+        border-bottom: 1px dashed #e8ebef;
+        font-weight: 90;
+        color: #8e9bae;
+        font-size: 15px;
+        padding: 0;
+        line-height: 1.2em;
+        }
+
+        .header__item_delivery {
+        height: 30px;
+        padding-left: 124px;
+        padding-top: 28px;
+        }
+
+        .delivery {
+        color: #8e9bae;
+        font-size: 15px;
+        font-weight: 90;
+    }
+
+        .header__item_input {
+        margin-top: 20px;
+        margin-left: 30px;
+        padding-right: 24px;
+        border-right: 2px solid #dbdfe3;   
+    }
+
+        .form-control {
+        border-radius: 50px 50px 50px 50px;
+        width: 361px;
+        height: 39px;
+        border-width: 2px;
+        background-image: url(../img/ico.png);
+        background-repeat: no-repeat;
+        background-position: 11px -405px;
+        background-size: 25px;
+        padding-left: 37px;
+        opacity: 0.4;
+        font-size: 15px;
+        }
+
+        .header__item_backet {
+        margin-top: 28px;
+        margin-left: 20px;
+        }
+
+        .backet__item {
+        font-size: 15px;
+        height: 24px;
+        background-image: url(../img/ico.png);
+        background-repeat: no-repeat;
+        background-size: 28px;
+        background-position: 0 -99px;
+        font-weight: 500;
+        width: 150px;
+        padding-left: 36px;
+        }
+
+    .banner {
+    height: 405px;
+    background-image: url(../img/bgi.png);
+    background-size: cover;
+        
+    }
+        .banner__item_text {
+        width: 622px;
+        padding-left: 156px;
+        padding-top: 94px;
+        }
+
+        .banner__item_buttonsmom {
+        padding-left: 170px;
+        padding-top: 29px;
+        }
+
+        .banner__item_button {
+        background-color: #6abc00;
+        border-color: #6abc00;
+        border-radius: 4px;
+        font-size: 14px;
+        width: 212px;
+        height: 41px;
+        color: #fff;
+        background-image: url(../img/ico.png);
+        background-repeat: no-repeat;
+        background-position: 10px -137px;
+        background-size: 27px;
+        padding-left: 31px;
+        font-weight: 100;;
+        }
+
+        .banner__item_buttonsmom2 {
+        padding-left: 23px;
+        padding-top: 29px;
+        }
+
+        .banner__item_button2 {
+        background-color: #607ed1;
+        border-color: #607ed1;
+        border-radius: 4px;
+        font-size: 14px;
+        width: 181px;
+        color: #fff;
+        background-image: url(../img/ico.png);
+        background-repeat: no-repeat;
+        height: 41px;
+        background-position: 3px -215px;
+        background-size: 31px;
+        font-weight: 100;
+        }
+
+    .nav-menu {
+    background-color: #f5f6f7;
+    height: 55px;
+    padding-left: 286px;
+        
+    }
+
+        .nav-menu__item {
+            color: #4f555d;;
+            font-size: 15px;
+            padding-top: 14px;
+            padding-left: 29px;
+        }
+
+
+   
